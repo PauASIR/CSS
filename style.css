@@ -54,3 +54,10 @@ footer
     font-style: italic;
     letter-spacing: -1px;
 }
+img.steve_jobs
+{
+    width: 25%;
+    height: 25%;
+    float: right;
+    margin-top: 4%;
+}
