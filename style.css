@@ -1,0 +1,56 @@
+body
+{
+    background-color: #c1dee7;
+}
+h1
+{
+    color: blue;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+}
+span.S
+{
+    color: black;
+    font-size: 100px;
+    font-weight: 100;
+}
+nav
+{
+    color: blue;
+    text-align: center;
+    font-size: large;
+}
+a.a_nav
+{
+    text-decoration: none;
+    color: blue;
+}
+a.a_nav:hover
+{
+    color: red;
+    background-color: yellow;
+}
+span.texto_rojo
+{
+    color: red;
+}
+a.enlace
+{
+    background-color: white;
+    color: blue;
+}
+a.enlace:visited
+{
+    color: white;
+    background-color: blue;
+}
+li
+{
+    padding-bottom: 15px;
+    margin-left: -25px;
+}
+footer
+{
+    font-style: italic;
+    letter-spacing: 0px;
+}
